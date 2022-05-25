@@ -4,6 +4,8 @@ I like to code and I like to talk about code. Interesting projects keep me up at
 
 I use JS/TS the most, but I'm also familiar with, and use to varying degrees, Python, Go, C++, C#, and a couple others.
 
+I'm interested in job opportunities. You can email me at \[github username\]@protonmail.com.
+
 
 ## Things I Do
 
