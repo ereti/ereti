@@ -17,7 +17,7 @@ USC IR is a specification for internet ranking for the game unnamed_sdvx_clone. 
 
 ### Other Things!
 
-Some of the things I've worked on are not on my GitHub profile for a variety of reasons: my final year project is not allowed to be public yet lest a plagiarism tracker pick it up and accuse me of stealing 100% of my work from myself. But they're super cool as well: my final year project is a full-stack web application built with SvelteKit, which allows a class of students to learn programming by collaboratively controlling a Parrot-brand drone using a simple domain-specific language designed by me.
+Some of the things I've worked on are not on my GitHub profile for a variety of reasons: for example, my final year project is not allowed to be public yet lest a plagiarism tracker pick it up and accuse me of stealing 100% of my work from myself. But they're super cool as well: my final year project is a full-stack web application built with SvelteKit, which allows a class of students to learn programming by collaboratively controlling a Parrot-brand drone using a simple domain-specific language designed by me.
 
 
 ## Things I Love
